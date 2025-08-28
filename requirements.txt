@@ -1,0 +1,5 @@
+streamlit
+numpy
+plotly.graph_objects
+from plotly.subplots import make_subplots
+pandas
